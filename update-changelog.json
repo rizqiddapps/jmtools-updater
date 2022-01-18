@@ -3,17 +3,17 @@
   "latestVersionCode": "10",
   "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/JM%20TOOLS%20-%20V%201.6.0.apk",
   "releaseNotes": [
-    "Whats UPDATE JM TOOLS V 1.6.0 Stable ?",
-	"1. Ultra HD AUDIO For PUBGM 1.8.0",
-	"2. Change RESOLUTION for PUBGM V 1.8.0",
-	"3. Change In-game FPS Graphics For PUBGM 1.8.0",
+    "Whats New Feature JM TOOLS V1.6.0 ?",
+	"1. Ultra HD AUDIO",
+	"2. Change RESOLUTION",
+	"3. Change In-game FPS Graphics",
 	"4. All Configs UPDATED to PUBGM 1.8.0",
 	"5. New Algorithm for Implementing Config",
 	"6. New Algorithm for Inject Anti Reset Config",
 	"7. New Algorithm for Auto Booster",
 	"8. New Algorithm for Game Booster",
-	"9. Update All Active.sav For PUBGM 1.8.0",
-	"10. Update All Rawdata For PUBGM 1.8.0",
-	"11. Change UI Appearance for PUBGM 1.8.0"
+	"9. Update All Active.sav",
+	"10. Update All Rawdata",
+	"11. Update UI Appearance"
   ]
 }
