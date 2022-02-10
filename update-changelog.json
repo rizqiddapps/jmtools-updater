@@ -1,19 +1,15 @@
 {
-  "latestVersion": "1.6.0",
-  "latestVersionCode": "10",
-  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/JM%20TOOLS%20-%20V%201.6.0.apk",
+  "latestVersion": "1.6.1",
+  "latestVersionCode": "11",
+  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/JM%20TOOLS%20-%20V%201.6.1.apk",
   "releaseNotes": [
-    "Whats New Feature JM TOOLS V1.6.0 ?",
-	"1. Ultra HD AUDIO",
-	"2. Change RESOLUTION",
-	"3. Change In-game FPS Graphics",
-	"4. All Configs UPDATED to PUBGM 1.8.0",
-	"5. New Algorithm for Implementing Config",
-	"6. New Algorithm for Inject Anti Reset Config",
-	"7. New Algorithm for Auto Booster",
-	"8. New Algorithm for Game Booster",
-	"9. Update All Active.sav",
-	"10. Update All Rawdata",
-	"11. Update UI Appearance"
+    "Whats New Update FIX JM TOOLS V1.6.1 R?",
+	"1. Hapus Informasi Game Booster saat di ingame. ",
+	"2. Hapus Iklan yang double ",
+	"3. Perbaikan Apply Config di semua Device ",
+	"4. Perbaikan Pemilihan File di GFX Manual Untuk Android 11 ke atas ",
+	"5. Perbaikan Hapus Cache & Data Game yang kadang gak muncul di android 7 dan android 10 ",
+	"6. Hapus gambar pubgm di main menu ",
+	"7. Semua bugs sudah di perbaiki."
   ]
 }
