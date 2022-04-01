@@ -1,18 +1,19 @@
 {
-  "latestVersion": "1.6.6",
-  "latestVersionCode": "13",
-  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/JM%20TOOLS%20-%20V%201.6.6.apk",
+  "latestVersion": "1.7.0",
+  "latestVersionCode": "15",
+  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/JM%20TOOLS%20-%20V%201.7.0.apk",
   "releaseNotes": [
-    "Whats New Update FIX JM TOOLS V1.6.6 R?",
-	"1. Hapus Informasi Game Booster saat di ingame.",
-	"2. Hapus Iklan yang double ",
-	"3. Perbaikan Apply Config di semua Device ",
-	"4. Perbaikan Pemilihan File di GFX Manual Untuk Android 11 ke atas ",
-	"5. Perbaikan Hapus Cache & Data Game yang kadang gak muncul di android 7 dan android 10 ",
-	"6. Hapus gambar pubgm di main menu ",
-	"7. Semua bugs sudah di perbaiki.",
-	"8. Perbaikan download Rawdata.",
-	"9. Penghapusan Iklan yang mengganggu.",
-	"10. Perubahan Server Primary"
+    "Whats New Update FIX JM TOOLS V1.7.0 ?",
+	"1. GFX Baru APEX Legends - Segera hadir", 
+	"2. Ikon Baru JM TOOLS ", 
+	"3. User Interface Baru dgn design baru ", 
+	"4. Ada Games baru di dalam aplikasi yang di support oleh Qureka Lite", 
+	"5. Algoritma Baru untuk Menerapkan Config dengan ", 
+	"6. Auto Clear Backgrund proses Aplikasi lain ", 
+	"7. Tingakat keamanan data dan security baru ", 
+	"8. Pengechekan Koneksi internet sebelum mendownload File", 
+	"9. Penambahan Billing System Google Pay", 
+	"10. Penambahan Pesan GDPR", 
+	"11. Server Baru dengan Security yang baru""
   ]
 }
