@@ -1,19 +1,18 @@
 {
-  "latestVersion": "1.7.0",
-  "latestVersionCode": "15",
-  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/JM%20TOOLS%20-%20V%201.7.0.apk",
+  "latestVersion": "1.9.6",
+  "latestVersionCode": "20",
+  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/GM%20TOOLS%20-%20V%201.9.5.apk",
   "releaseNotes": [
-    "Whats New Update FIX JM TOOLS V1.7.0 ?",
-	"1. GFX Baru APEX Legends - Segera hadir", 
-	"2. Ikon Baru JM TOOLS ", 
-	"3. User Interface Baru dgn design baru ", 
-	"4. Ada Games baru di dalam aplikasi yang di support oleh Qureka Lite", 
-	"5. Algoritma Baru untuk Menerapkan Config dengan ", 
-	"6. Auto Clear Backgrund proses Aplikasi lain ", 
-	"7. Tingakat keamanan data dan security baru ", 
-	"8. Pengechekan Koneksi internet sebelum mendownload File", 
-	"9. Penambahan Billing System Google Pay", 
-	"10. Penambahan Pesan GDPR", 
-	"11. Server Baru dengan Security yang baru""
+    "Whats New Update FIX GM TOOLS V1.9.6 ?",
+	"1. Perubahan Nama JM TOOLS ke GM TOOLS",
+	"2. Update Semua Active.sav & Rawdata",
+	"3. Update Semua Config GFX Custom",
+	"4. Update Semua Config GFX Instant",  
+	"5. Update GFX Manual",
+	"6. Fitur Anti Reset (Diperbarui)",
+	"7. Perbaikan 2x Speed Booster",
+	"8. Hapus beberapa iklan yang menggangu",
+	"9. Support Android 11,12 & 13",
+	"10. Semua bugs Error Telah di perbaiki"
   ]
 }
