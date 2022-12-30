@@ -1,18 +1,13 @@
 {
-  "latestVersion": "1.9.6",
-  "latestVersionCode": "20",
-  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/GM%20TOOLS%20-%20V%201.9.5.apk",
+  "latestVersion": "2.0.3",
+  "latestVersionCode": "22",
+  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/JM%20TOOLS%20-%20V%202.0.3.apk",
   "releaseNotes": [
-    "Whats New Update FIX GM TOOLS V1.9.6 ?",
-	"1. Perubahan Nama JM TOOLS ke GM TOOLS",
-	"2. Update Semua Active.sav & Rawdata",
-	"3. Update Semua Config GFX Custom",
-	"4. Update Semua Config GFX Instant",  
-	"5. Update GFX Manual",
-	"6. Fitur Anti Reset (Diperbarui)",
-	"7. Perbaikan 2x Speed Booster",
-	"8. Hapus beberapa iklan yang menggangu",
-	"9. Support Android 11,12 & 13",
-	"10. Semua bugs Error Telah di perbaiki"
+    "Whats New Update JM TOOLS V2.0.3 ?",
+	"1. GFX Instant - Config Not Work - Fixed",
+	"2. Android 11 - Error apply config - Fixed",
+	"3. Android 12 - Error apply config - Fixed",
+	"4. Android 13 - Error apply config - Fixed",
+	"5. Android 13 - Perbaikan di GFX manual saat Pilih Rawdata - Fixed"
   ]
 }
