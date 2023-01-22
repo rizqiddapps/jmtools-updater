@@ -1,13 +1,18 @@
 {
-  "latestVersion": "2.0.3",
-  "latestVersionCode": "22",
-  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/JM%20TOOLS%20-%20V%202.0.3.apk",
+  "latestVersion": "2.1.0",
+  "latestVersionCode": "23",
+  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/JM%20TOOLS%20-%20V%202.1.0.apk",
   "releaseNotes": [
-    "Whats New Update JM TOOLS V2.0.3 ?",
-	"1. GFX Instant - Config Not Work - Fixed",
-	"2. Android 11 - Error apply config - Fixed",
-	"3. Android 12 - Error apply config - Fixed",
-	"4. Android 13 - Error apply config - Fixed",
-	"5. Android 13 - Perbaikan di GFX manual saat Pilih Rawdata - Fixed"
+    "Whats New Update JM TOOLS V2.1.0 ?",
+	"1. Untuk PUBG Mobile Version 2.4.0",
+	"2. Update Fitur 90 FPS Untuk Layar 90hz",
+	"3. Update Fitur iPAD View",
+	"4. Update Fitur Super Smooth",
+	"5. Update Semua Audio UltraHD",
+	"6. Update Semua Active.sav & Rawdata",
+	"7. Update Semua Config GFX Custom & Instant",
+	"8. Fitur Anti Reset (Diperbarui)",
+	"9. Perbaikan 2x Speed Booster",
+	"10. Support Android 11,12,13 dan lebih baru"
   ]
 }
