@@ -1,18 +1,21 @@
 {
-  "latestVersion": "2.1.0",
-  "latestVersionCode": "23",
-  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/JM%20TOOLS%20-%20V%202.1.0.apk",
+  "latestVersion": "2.9.0",
+  "latestVersionCode": "29",
+  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/JM%20TOOLS%20-%20V%202.9.0.apk",
   "releaseNotes": [
-    "Whats New Update JM TOOLS V2.1.0 ?",
-	"1. Untuk PUBG Mobile Version 2.4.0",
-	"2. Update Fitur 90 FPS Untuk Layar 90hz",
-	"3. Update Fitur iPAD View",
-	"4. Update Fitur Super Smooth",
-	"5. Update Semua Audio UltraHD",
-	"6. Update Semua Active.sav & Rawdata",
-	"7. Update Semua Config GFX Custom & Instant",
-	"8. Fitur Anti Reset (Diperbarui)",
-	"9. Perbaikan 2x Speed Booster",
-	"10. Support Android 11,12,13 dan lebih baru"
+		"What's New Update JM TOOLS V2.9.0?",
+		"1. For PUBG Mobile Version 2.9.0",
+		"2. New Feature to Lock FPS for All Games",
+		"   * Support Root & Non Root",
+		"   * Lock FPS from 60HZ to 144HZ",
+		"   * Stabilize FPS for All Devices",
+		"   * Support for All Android Versions",
+		"3. Added Active.sav & Rawdata iPhone 15 Pro MAX",
+		"3. Added Active.sav & Rawdata iPAD Pro M2",
+		"3. Added Active.sav & Rawdata iPAD Pro M1",
+		"3. Update All UltraHD Audio",
+		"4. Update All Active.sav & Rawdata",
+		"5. Update All Custom & Instant GFX Config",
+		"6. Supports Android 6 to 13 and above"
   ]
 }
