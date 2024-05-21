@@ -1,20 +1,17 @@
 {
-  "latestVersion": "3.1.0",
-  "latestVersionCode": "31",
-  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/JM%20TOOLS%20-%20V%203.1.0.apk",
+  "latestVersion": "3.2.0",
+  "latestVersionCode": "32",
+  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/JM%20TOOLS%20-%20V%203.2.0.apk",
   "releaseNotes": [
-		"What's New Update JM TOOLS V3.1.0?",
-		"1. For PUBG Mobile Version 3.1.0",
-		"2. Update Feature to Lock FPS for All Games",
-		"   * Support Root & Non Root",
-		"   * Support semua Game",
-		"	- PUBGM,ML,CODM,NEW STATE,GENSIN,PES,AND ETC.",
-		"   * Lock FPS from 60HZ to 144HZ",
-		"   * Stabilize FPS for All Devices",
-		"   * Support for All Android Version",
-		"3. Update All UltraHD Audio",
-		"4. Update All Active.sav (New) & Rawdata",
-		"5. Update All Custom & Instant GFX Config",
-		"6. Supports Android 6 to 14 and above"
+		"What's New Update JM TOOLS V3.2.0?",
+		"1. For PUBG Mobile Version 3.2.0",
+		"2. New Unlocker 120 FPS for Game PUBGM",
+		"3. New Adjustment FPS for Game PUBGM",
+		"4. New Power Saving for Game PUBGM",
+		"5. New Ultra FPS & Grafis for Game Mobile Legends",
+		"6. New Change Resolution For Any Device",
+		"7. New Added Active.sav & Rawdata",
+		"8. Add Shizuku Adb Shell For A11+",
+		"9. Fixed All Bugs from old App"
   ]
 }
