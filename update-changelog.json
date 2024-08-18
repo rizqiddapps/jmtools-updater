@@ -1,17 +1,16 @@
 {
-  "latestVersion": "3.2.0",
-  "latestVersionCode": "32",
-  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/JM%20TOOLS%20-%20V%203.2.0.apk",
+  "latestVersion": "3.3.0",
+  "latestVersionCode": "33",
+  "url": "https://raw.githubusercontent.com/rizqiddapps/jmtools-updater/master/release/JM%20TOOLS%20-%20V%203.3.0.apk",
   "releaseNotes": [
-		"What's New Update JM TOOLS V3.2.0?",
-		"1. For PUBG Mobile Version 3.2.0",
-		"2. New Unlocker 120 FPS for Game PUBGM",
-		"3. New Adjustment FPS for Game PUBGM",
-		"4. New Power Saving for Game PUBGM",
-		"5. New Ultra FPS & Grafis for Game Mobile Legends",
-		"6. New Change Resolution For Any Device",
-		"7. New Added Active.sav & Rawdata",
-		"8. Add Shizuku Adb Shell For A11+",
-		"9. Fixed All Bugs from old App"
+		"What's New Update JM TOOLS V3.3.0?",
+		"1. For PUBG Mobile Version 3.3.0",
+		"2. New Unlocker 120 FPS for Game (PUBGM)",
+		"3. Updated Active.sav, Rawdata & Audio (PUBGM)",
+		"4. Fix Unlock EXTREME FPS in (PUBGM)",
+		"5. Fix Unlock 120 FPS For Mobile Legends (ML)",
+		"6. Add New Game Honor Of King (HOK)",
+		"7. Add New Game Bus Simulator Indonesia (BUSSID)",
+		"8. Fixed All Bugs from old App"
   ]
 }
